@@ -69,3 +69,7 @@ Data Collection: Interaction data provides insights into user interests and comm
 Learnings and Conclusion
 This project provided hands-on experience in chatbot development, user interaction design, and automation within the digital marketing domain. The chatbot solution has contributed to Codtech’s customer support efficiency and has strengthened my skills in designing, testing, and deploying conversational AI solutions.
 
+![Screenshot 2024-10-28 172506](https://github.com/user-attachments/assets/172c5b48-b0a9-410e-9753-1e57a5b8062d)
+![Screenshot 2024-10-28 172647](https://github.com/user-attachments/assets/a526124f-4a26-43a6-93bd-540e38df8c5e)
+
+
